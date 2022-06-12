@@ -1,0 +1,7 @@
+#+title: Advent of Code in Racket
+#+author: David Holmqvist
+
+* Advent of Code in Racket
+
+Solutions to AoC in Racket, as to the best of my abilites, time and
+motivation.
